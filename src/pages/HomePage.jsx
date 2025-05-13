@@ -137,7 +137,11 @@ const HomePage = () => {
              Get Expert Help with Your Technical Assignments
             </h1>
             <p className="text-2xl sm:text-3xl text-gray-200 mb-12 max-w-5xl mx-auto leading-relaxed animate-slide-up">
-              We provide high-quality, plagiarism-free solutions for Computer Science students from beginner to advanced level.
+            We provide high-quality, plagiarism-free Computer Science assignment and project solutions for undergraduate, graduate, and all other education levels.
+
+
+
+
             </p>
             <Link
               to="/contact"
@@ -177,7 +181,7 @@ const HomePage = () => {
                Tech Assignment Support is a team of dedicated professionals specializing in providing top-quality technical assignment support. We help students, researchers, and even businesses solve complex problems in blockchain, machine learning, web development, and many other CS domains.
               </p>
               <p className="text-gray-300 mb-10 leading-relaxed text-lg animate-slide-up">
-                Whether you're in school, college, or university, we’re here to support you with programming tasks, data structures, database systems, software engineering, and more. Our solutions are well-explained, plagiarism-free, and always delivered on time.”
+                Whether you're an undergraduate or graduate student, we’re here to support you with programming tasks. Our solutions are well-explained, plagiarism-free, and always delivered on time.
               </p>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-8">
                 {stats.map((stat, index) => (

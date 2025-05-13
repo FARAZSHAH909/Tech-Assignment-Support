@@ -81,9 +81,8 @@ const Footer = () => {
               Contact Info
             </h3>
             <address className="not-italic text-gray-300 text-base space-y-3">
-              <p>Email: info@rspchampion.com</p>
-              <p>Phone: +1 (555) 123-4567</p>
-              <p>Address: 123 Tech Street, Innovation City</p>
+              <p>Email: techassignment.team@gmail.com</p>
+              <p>Phone: +92 3172882180</p>
             </address>
 
             {/* Social Icons */}

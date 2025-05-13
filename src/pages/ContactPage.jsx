@@ -331,7 +331,7 @@ const ContactPage = () => {
                         href="mailto:your-email@rspchampion.com"
                         className="text-blue-500 hover:text-blue-600 hover:underline transition-colors duration-300"
                       >
-                        your-email@rspchampion.com
+                       techassignment.team@gmail.com
                       </a>
                     </div>
                   </div>
@@ -359,79 +359,21 @@ const ContactPage = () => {
                         href="tel:+12345678901"
                         className="text-blue-500 hover:text-blue-600 hover:underline transition-colors duration-300"
                       >
-                        +1 (234) 567-8901
+                        +92 3172882180
                       </a>
                     </div>
                   </div>
 
                   <div className="flex items-start group">
                     <div className="flex-shrink-0 mt-1">
-                      <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        className="h-6 w-6 text-blue-500 group-hover:text-blue-600 transition-colors duration-300"
-                        fill="none"
-                        viewBox="0 0 24 24"
-                        stroke="currentColor"
-                      >
-                        <path
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                          strokeWidth={2}
-                          d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"
-                        />
-                        <path
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                          strokeWidth={2}
-                          d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"
-                        />
-                      </svg>
+                     
                     </div>
-                    <div className="ml-4">
-                      <p className="text-gray-700 font-medium">Address</p>
-                      <p className="text-gray-600">
-                        Your Actual Address
-                        <br />
-                        City, State, ZIP
-                        <br />
-                        Country
-                      </p>
-                    </div>
+                   
                   </div>
                 </div>
               </div>
 
-              <div className="bg-white rounded-xl shadow-lg p-8">
-                <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-6">
-                  Business Hours
-                </h2>
-
-                <div className="space-y-3">
-                  <div className="flex justify-between">
-                    <span className="text-gray-600">Monday - Friday:</span>
-                    <span className="text-gray-800 font-medium">
-                      9:00 AM - 6:00 PM
-                    </span>
-                  </div>
-                  <div className="flex justify-between">
-                    <span className="text-gray-600">Saturday:</span>
-                    <span className="text-gray-800 font-medium">
-                      10:00 AM - 4:00 PM
-                    </span>
-                  </div>
-                  <div className="flex justify-between">
-                    <span className="text-gray-600">Sunday:</span>
-                    <span className="text-gray-800 font-medium">Closed</span>
-                  </div>
-                </div>
-
-                <div className="mt-6">
-                  <p className="text-gray-600">
-                    Our support team is available 24/7 for urgent inquiries via
-                    email.
-                  </p>
-                </div>
-              </div>
+             
             </div>
           </div>
         </div>
